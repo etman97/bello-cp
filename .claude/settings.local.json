@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /d/bello-food/bello-cp/*.sql)",
+      "Bash(xargs grep *)"
+    ]
+  }
+}
